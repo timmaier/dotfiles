@@ -15,7 +15,7 @@ alias projects="cd $HOME/Code"
 alias sites="cd $HOME/Herd"
 
 # Laravel
-alias a="herd php artisan"
+alias art="herd php artisan"
 alias fresh="herd php artisan migrate:fresh --seed"
 alias tinker="herd php artisan tinker"
 alias seed="herd php artisan db:seed"
